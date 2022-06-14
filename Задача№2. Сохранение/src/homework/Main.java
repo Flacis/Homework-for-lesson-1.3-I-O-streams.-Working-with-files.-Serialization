@@ -55,7 +55,7 @@ public class Main {
             zout1.closeEntry();
             zout2.closeEntry();
             zout3.closeEntry();
-            System.out.println("Сохраниене добавлено в архив");
+            System.out.println("Сохранение добавлено в архив");
         } catch (Exception ex) {
             System.out.println(ex.getMessage());
         }
